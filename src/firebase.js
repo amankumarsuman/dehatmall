@@ -14,6 +14,8 @@ const firebaseConfig = {
 	// messagingSenderId: "",
 	// appId: "",
 	// measurementId: "",
+
+	// e-food-9e6e3-taken from admin portal
 	apiKey: "AIzaSyAVFd8_6NSn5UTrxlc54iXDSDbNIvAC3vE",
   authDomain: "naturalganic.firebaseapp.com",
   projectId: "naturalganic",
